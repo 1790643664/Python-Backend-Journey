@@ -1,0 +1,2 @@
+﻿  test.c
+D:\code\vscode\test_2_21\test_2_21\test.c(16,23): error C2065: “num”: 未声明的标识符

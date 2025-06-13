@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\vscode\\test_3_18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74015164-C374-4C34-806E-CD41F5074E42}|test_3_18.vcxproj|D:\\code\\vscode\\test_3_18\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74015164-C374-4C34-806E-CD41F5074E42}|test_3_18.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74015164-C374-4C34-806E-CD41F5074E42}|test_3_18.vcxproj|D:\\code\\vscode\\test_3_18\\add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74015164-C374-4C34-806E-CD41F5074E42}|test_3_18.vcxproj|solutionrelative:add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74015164-C374-4C34-806E-CD41F5074E42}|test_3_18.vcxproj|D:\\code\\vscode\\test_3_18\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74015164-C374-4C34-806E-CD41F5074E42}|test_3_18.vcxproj|solutionrelative:add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code\\vscode\\test_3_18\\test.c",
+              "RelativeDocumentMoniker": "test.c",
+              "ToolTip": "D:\\code\\vscode\\test_3_18\\test.c",
+              "RelativeToolTip": "test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-18T15:29:16.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "add.c",
+              "DocumentMoniker": "D:\\code\\vscode\\test_3_18\\add.c",
+              "RelativeDocumentMoniker": "add.c",
+              "ToolTip": "D:\\code\\vscode\\test_3_18\\add.c",
+              "RelativeToolTip": "add.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-18T15:26:40.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add.h",
+              "DocumentMoniker": "D:\\code\\vscode\\test_3_18\\add.h",
+              "RelativeDocumentMoniker": "add.h",
+              "ToolTip": "D:\\code\\vscode\\test_3_18\\add.h",
+              "RelativeToolTip": "add.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-18T15:26:27.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

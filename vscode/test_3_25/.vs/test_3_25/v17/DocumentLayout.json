@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\vscode\\test_3_25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{190F9BCF-CD4E-41E6-BB43-0764CF164FB2}|test_3_25.vcxproj|D:\\code\\vscode\\test_3_25\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{190F9BCF-CD4E-41E6-BB43-0764CF164FB2}|test_3_25.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190F9BCF-CD4E-41E6-BB43-0764CF164FB2}|test_3_25.vcxproj|D:\\code\\vscode\\test_3_25\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{190F9BCF-CD4E-41E6-BB43-0764CF164FB2}|test_3_25.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190F9BCF-CD4E-41E6-BB43-0764CF164FB2}|test_3_25.vcxproj|D:\\code\\vscode\\test_3_25\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{190F9BCF-CD4E-41E6-BB43-0764CF164FB2}|test_3_25.vcxproj|solutionrelative:game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 276,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\code\\vscode\\test_3_25\\game.h",
+              "RelativeDocumentMoniker": "game.h",
+              "ToolTip": "D:\\code\\vscode\\test_3_25\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-25T14:24:20.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.c",
+              "DocumentMoniker": "D:\\code\\vscode\\test_3_25\\game.c",
+              "RelativeDocumentMoniker": "game.c",
+              "ToolTip": "D:\\code\\vscode\\test_3_25\\game.c",
+              "RelativeToolTip": "game.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-25T14:24:08.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code\\vscode\\test_3_25\\test.c",
+              "RelativeDocumentMoniker": "test.c",
+              "ToolTip": "D:\\code\\vscode\\test_3_25\\test.c",
+              "RelativeToolTip": "test.c",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-25T14:23:20.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

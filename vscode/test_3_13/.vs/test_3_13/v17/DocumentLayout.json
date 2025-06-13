@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\vscode\\test_3_13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2752D43-5D49-4C25-9C10-4F0955075E76}|test_3_13\\test_3_13.vcxproj|D:\\code\\vscode\\test_3_13\\test_3_13\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2752D43-5D49-4C25-9C10-4F0955075E76}|test_3_13\\test_3_13.vcxproj|solutionrelative:test_3_13\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code\\vscode\\test_3_13\\test_3_13\\test.c",
+              "RelativeDocumentMoniker": "test_3_13\\test.c",
+              "ToolTip": "D:\\code\\vscode\\test_3_13\\test_3_13\\test.c",
+              "RelativeToolTip": "test_3_13\\test.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-13T14:46:13.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
